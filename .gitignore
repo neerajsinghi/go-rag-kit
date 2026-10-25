@@ -1,0 +1,21 @@
+# Binaries
+/ragkit-eval
+/quickstart
+*.exe
+*.test
+*.out
+/bin/
+/dist/
+
+# Coverage
+coverage.*
+*.coverprofile
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local env
+.env
+.env.*

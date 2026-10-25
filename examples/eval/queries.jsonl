@@ -1,0 +1,12 @@
+{"query":"how do goroutines communicate with each other","relevant_ids":["channels"]}
+{"query":"cancel a long running request with a deadline","relevant_ids":["context"]}
+{"query":"HNSW index in postgres","relevant_ids":["pgvector"]}
+{"query":"numCandidates for $vectorSearch","relevant_ids":["atlas"]}
+{"query":"term frequency saturation and length normalisation","relevant_ids":["bm25"]}
+{"query":"combine vector and keyword rankings","relevant_ids":["rrf","bm25"]}
+{"query":"split markdown by headings","relevant_ids":["chunking"]}
+{"query":"HTTP 429 Retry-After","relevant_ids":["ratelimit"]}
+{"query":"ECONNRESET","relevant_ids":["errconn"]}
+{"query":"recall@k and MRR","relevant_ids":["evaluation"]}
+{"query":"lightweight threads scheduled by the runtime","relevant_ids":["goroutines"]}
+{"query":"dimensions of text-embedding-3-small","relevant_ids":["embeddings"]}
